@@ -1,0 +1,7 @@
+{
+ "name":"To E-Noti, or to Manual?",
+ "short_name":"E-Noti / Manual",
+ "description":"Rujukan pantas kaedah notifikasi penyakit berjangkit di Malaysia",
+ "lang":"ms-MY","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#071b22","theme_color":"#092c32",
+ "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
